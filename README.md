@@ -1,6 +1,6 @@
 # 42 Post Common Core
 
-Index of my projects completed at 42.
+Index of my 42 Post Common Core projects.
 
 ## Projects
 
